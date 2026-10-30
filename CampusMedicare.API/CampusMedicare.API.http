@@ -1,0 +1,6 @@
+@CampusMedicare.API_HostAddress = http://localhost:5065
+
+GET {{CampusMedicare.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

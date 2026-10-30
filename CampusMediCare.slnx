@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CampusMedicare.API/CampusMedicare.API.csproj" />
+  <Project Path="CampusMediCare/CampusMediCare.Mobile.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
